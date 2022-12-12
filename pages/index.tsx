@@ -50,7 +50,7 @@ const Home: React.FC = () => {
             name="password"
             placeholder="password"
           />
-          <button type="submit">Login</button>
+          <button type="submit">Login user</button>
         </form>
       )}
     </div>
